@@ -1,0 +1,25 @@
+mapper.txt
+Created Mon Jan 28 09:56:48 AST 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Alaska Mapper
+
+
+Peter Parkers's MapAK at Alaska State DNR
+
+
+Links
+=====
+Alaska Mapper
+http://dnr.alaska.gov/mapper/controller?do=view&view=map#map=4/-16632245.12/8816587.34
+
+
+Alaska Mapper test instance
+o Has National Map Topo (for cartographic lines)
+  in the upper right.  
+o Contrast against ArcGIS World Imagery
+  to compare/view picture of land.
+o Zooming into 5000 ft (~1 inch per mile)
+  shows solid cartographic
+http://test.dnr.alaska.gov/mapper/controller?do=view&view=map#map=4/-16632245.12/8816587.34
